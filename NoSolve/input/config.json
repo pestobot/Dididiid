@@ -1,0 +1,85 @@
+{
+    "threads": 300,
+    "DefaultSolver": "Devious",
+    "Solvers_Keys": {
+        "RoSolve": "",
+        "Devious": "",
+        "FunBypass": "",
+        "CDS": ""
+    },
+    "logWebhook": true,
+    "account_info": {
+        "useProxies": false
+    },
+    "webhooks": {
+        "default": "",
+        "rap": "",
+        "robux": "",
+        "rare_items": "",
+        "old_accounts": "",
+        "items": "",
+        "locked_accounts": "",
+        "banned_accounts": ""
+    },
+    "discordId": "",
+    "autoSecure": {
+        "password": {
+            "enabled": false,
+            "prefix": "cooper_",
+            "DontChangeIfUnderageFailed": true
+        },
+        "underage": false
+    },
+    "skipCombos": {
+        "skip_invalid": true,
+        "skip_checked": true
+    },
+    "hideOutput": {
+        "enabled": true,
+        "email": {
+            "hide_invalid": true,
+            "hide_valid": true,
+            "hide_locked": true,
+            "hide_checked": true,
+            "hide_checking": true
+        },
+        "username": {
+            "hide_invalid": true,
+            "hide_valid": true,
+            "hide_locked": true,
+            "hide_checked": true,
+            "hide_checking": true
+        }
+    },
+    "autoUnban": true,
+    "rareItems": [
+        48894692,
+        14463095,
+        16469427,
+        42070576,
+        181651981,
+        6340133,
+        11453609,
+        10907532,
+        10907531,
+        14405720,
+        10907534,
+        8330578,
+        10907546,
+        11123805,
+        181434601,
+        189963816,
+        6340269,
+        8330576,        
+        6340141,
+        6340208,
+        6340192,
+        2845812591,
+        1158038,
+        124746102,
+        1029668,
+        1081381,
+        1163672
+    ],
+    "debug": true
+}

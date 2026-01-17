@@ -1,0 +1,8 @@
+curl_cffi
+discord_webhook
+requests
+colorama
+primp
+cryptography
+nltk
+robloxpy
