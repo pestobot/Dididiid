@@ -19,7 +19,7 @@
 ---
 
 ## 🌟 About Me
-I’m a passionate **self-taught developer** with experience in **HTML**, while actively learning **Python** and **Lua** to build:
+Hi there! I’m a passionate **self-taught developer** with experience in **HTML**, while actively learning **Python** and **Lua** to build:
 - 🤖 **Interactive Discord bots**
 - 🎮 **Creative Roblox games**
 
@@ -35,11 +35,4 @@ Most of my projects are **private** as I focus on refining and enhancing my skil
 <div align="center">
   <h3>📫 Connect with Me:</h3>
   <a href="https://github.com/pestobot"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-</div>
-
----
-
-<div align="center">
-  <p>✨ Always exploring. Always building. ✨</p>
-</div>
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-8
